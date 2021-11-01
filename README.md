@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 | <a href="https://github.com/san-10/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=san-10&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sanjana's github stats" /></a> | <a href="https://github.com/san-10/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=san-10&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 <a href="https://github.com/san-10/stock-market-prediction-and-forecasting-using-stacked-LSTM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=san-10&stock-market-prediction-and-forecasting-using-stacked-LSTM_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=san-10&stock-market-prediction-and-forecasting-using-stacked-LSTM&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>   
 
 
