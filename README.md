@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 | <a href="https://github.com/san-10/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=san-10&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sanjana's github stats" /></a> | <a href="https://github.com/san-10/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=san-10&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+<br>
 
 
 <a href="https://www.linkedin.com/in/sanjana-n-b-3a8750212/">
