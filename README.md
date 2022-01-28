@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 | <a href="https://github.com/san-10/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=san-10&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sanjana's github stats" /></a> | <a href="https://github.com/san-10/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=san-10&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 <br>
-
+<br>
 
 <a href="https://www.linkedin.com/in/sanjana-n-b-3a8750212/">
   <img align="right" alt="Sanjana N B| LinkedIn" width="60px" src="https://images.unsplash.com/photo-1611944212129-29977ae1398c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bGlua2VkaW4lMjBsb2dvfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80" />
