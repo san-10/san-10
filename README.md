@@ -6,7 +6,7 @@
 </p>
 
 
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently working on building agentic AI workflows for document understanding, automation, and data extraction<br>👯 I’m looking to collaborate on LLM / GenAI projects (RAG, agents, document AI, automation)<br>🌱 I’m currently learning<br><br>- Advanced LLM systems (agents, tool calling, orchestration, evaluation)<br><br>- Cloud-native ML (Docker, Kubernetes, scalable inference)<br><br>- MLOps & model lifecycle management
 
 
